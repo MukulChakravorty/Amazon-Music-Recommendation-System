@@ -10,6 +10,14 @@ This project analyzes Amazon Music track data and groups similar songs into mean
 
 The workflow includes data preprocessing, exploratory data analysis, feature engineering, feature scaling, cluster evaluation, PCA visualization, and business interpretation. The final output can support recommendation systems, music catalog organization, listener segmentation, and business decision-making.
 
+## 🚀 Live Demo
+
+Experience the deployed application and explore the complete Machine Learning workflow in real time.
+
+**Live Application:** https://amazon-music-clustering.streamlit.app/
+
+The application allows users to adjust 18 audio features, predict the most suitable music category using a trained K-Means clustering model, and receive an interactive recommendation through a professional Streamlit interface.
+
 
 ## 🎯 Business Problem
 
